@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RegistroEventos</string>
+    <string name="buttonRegistrar">Registrar</string>
+    <string name="txtId">Id</string>
+    <string name="radioBId">ID</string>
+    <string name="radioBQr">QR</string>
+</resources>
